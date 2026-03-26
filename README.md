@@ -1,21 +1,57 @@
 <div align="center">
 
-<img src="https://ui-avatars.com/api/?name=Social+App&background=1976d2&color=fff&size=120&rounded=true&bold=true" alt="SocialApp Logo" width="100" height="100" />
-
-<h1>💬 SocialApp</h1>
-
-<p><strong>A modern full-stack social media platform where users can connect, share moments, and engage with each other through posts, likes, and comments.</strong></p>
-
-[![Netlify Status](https://img.shields.io/badge/Frontend-Live%20on%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mini-social-app-3w.netlify.app)
-[![Render Status](https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://mini-social-app-backend-alk2.onrender.com)
-
+<img src="https://ui-avatars.com/api/?name=Social+App&background=1976d2&color=fff&size=120&rounded=true&bold=true" alt="SocialApp Logo" width="110" height="110" />
 
 <br />
 
-[🌐 Live Demo](https://mini-social-app-3w.netlify.app) &nbsp;•&nbsp;
-[🔗 API Base URL](https://mini-social-app-backend-alk2.onrender.com) &nbsp;•&nbsp;
-[🐛 Report Bug](https://github.com/RaushanGupta1516/mini-social-app/issues) &nbsp;•&nbsp;
-[✨ Request Feature](https://github.com/RaushanGupta1516/mini-social-app/issues)
+# 💬 SocialApp
+
+### *Where moments are shared and connections are made*
+
+<p align="center">
+  <b>A production-ready full-stack social media platform — built from scratch with React, Node.js & MongoDB</b>
+</p>
+
+<br />
+
+[![Netlify Status](https://img.shields.io/badge/🌐%20Frontend-Live%20on%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mini-social-app-3w.netlify.app)
+[![Render Status](https://img.shields.io/badge/⚙️%20Backend-Live%20on%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://mini-social-app-backend-alk2.onrender.com)
+[![MongoDB](https://img.shields.io/badge/🗄️%20Database-MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![React](https://img.shields.io/badge/⚛️%20Frontend-React%20+%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Node](https://img.shields.io/badge/🟢%20Backend-Node.js%20+%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![License](https://img.shields.io/badge/📄%20License-MIT-1976d2?style=for-the-badge)](LICENSE)
+
+<br />
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://mini-social-app-3w.netlify.app">
+        <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Click%20Here-1976d2?style=for-the-badge" alt="Live Demo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mini-social-app-backend-alk2.onrender.com">
+        <img src="https://img.shields.io/badge/🔗%20API-Base%20URL-46E3B7?style=for-the-badge" alt="API" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RaushanGupta1516/mini-social-app">
+        <img src="https://img.shields.io/badge/⭐%20GitHub-Star%20Repo-181717?style=for-the-badge&logo=github" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+> 🏆 **Built as part of 3W Full Stack Internship Assignment**
+> 
+> ✅ All requirements fulfilled &nbsp;|&nbsp; ✅ All bonus features implemented &nbsp;|&nbsp; ✅ Fully deployed
+
+---
 
 </div>
 
