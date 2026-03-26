@@ -8,8 +8,7 @@
 
 [![Netlify Status](https://img.shields.io/badge/Frontend-Live%20on%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mini-social-app-3w.netlify.app)
 [![Render Status](https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://mini-social-app-backend-alk2.onrender.com)
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
-[![License](https://img.shields.io/badge/License-MIT-1976d2?style=for-the-badge)](LICENSE)
+
 
 <br />
 
@@ -436,16 +435,8 @@ npm run build
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 <div align="center">
 
 **Built with ❤️ using React.js + Node.js + MongoDB**
-
-⭐ Star this repo if you found it helpful!
 
 </div>
