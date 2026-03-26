@@ -30,12 +30,12 @@
 
 | Login | Signup |
 |---|---|
-| ![Login](https://via.placeholder.com/400x250/1976d2/ffffff?text=Login+Page) | ![Signup](https://via.placeholder.com/400x250/42a5f5/ffffff?text=Signup+Page) |
+| ![Login](https://github.com/user-attachments/assets/8061e263-7923-43e7-b2d7-6aaba678469e) | ![Signup](https://github.com/user-attachments/assets/697e49ca-9d12-4f3b-a924-36fdcbb18e77) |
 
 ### 📰 Social Feed
 > Public feed with real-time likes and comments
 
-![Feed](https://via.placeholder.com/800x400/f0f2f5/1976d2?text=Social+Feed+Page)
+![Feed](https://github.com/user-attachments/assets/5ca0622d-9926-4635-9947-1d6190fe9e18)
 
 </div>
 
