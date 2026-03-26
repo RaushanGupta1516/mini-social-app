@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://ui-avatars.com/api/?name=Social+App&background=1976d2&color=fff&size=120&rounded=true&bold=true" alt="SocialApp Logo" width="110" height="110" />
+<img src="https://img.icons8.com/fluency/120/speech-bubble.png" alt="SocialApp Logo" width="110" height="110" />
 
-<br />
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=52&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=600&height=70&lines=💬+SocialApp;🔥+Share+Your+World;❤️+Connect+%26+Engage" alt="SocialApp Typing Title" />
+</h1>
 
-# 💬 SocialApp
-
-### *Where moments are shared and connections are made*
-
-<p align="center">
-  <b>A production-ready full-stack social media platform — built from scratch with React, Node.js & MongoDB</b>
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack-MERN-1976d2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Live%20%F0%9F%9F%A2-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" />
 </p>
+
+<p><strong>A production-ready social media platform — post, like, comment and connect with people around you.</strong></p>
 
 <br />
 
@@ -19,7 +21,7 @@
 [![MongoDB](https://img.shields.io/badge/🗄️%20Database-MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![React](https://img.shields.io/badge/⚛️%20Frontend-React%20+%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Node](https://img.shields.io/badge/🟢%20Backend-Node.js%20+%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![License](https://img.shields.io/badge/📄%20License-MIT-1976d2?style=for-the-badge)](LICENSE)
+
 
 <br />
 
